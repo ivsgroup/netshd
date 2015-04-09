@@ -1,0 +1,20 @@
+{
+  "name": "netshd",
+  "version": "0.0.1",
+  "description": "netsh wrapper for node",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "netsh",
+    "wifi",
+    "windows"
+  ],
+  "author": "Mario Valdivia <mvaldivia@ivsweb.com>",
+  "license": "IVS",
+  "dependencies": {
+    "nyks": "^0.7.11",
+    "underscore": "^1.8.3"
+  }
+}
