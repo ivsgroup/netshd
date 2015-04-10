@@ -1,6 +1,6 @@
 {
   "name": "netshd",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "netsh wrapper for node",
   "main": "lib/index.js",
   "scripts": {
@@ -15,5 +15,13 @@
   "license": "IVS",
   "dependencies": {
     "nyks": "^0.7.11"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivsgroup/netshd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ivsgroup/netshd/issues"
   }
 }
