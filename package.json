@@ -1,6 +1,6 @@
 {
   "name": "netshd",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "netsh wrapper for node",
   "main": "lib/index.js",
   "scripts": {
@@ -14,6 +14,7 @@
   "author": "Mario Valdivia <mvaldivia@ivsweb.com>",
   "license": "IVS",
   "dependencies": {
+    "mout": "^0.11.0",
     "nyks": "^2.0.0"
   },
   "devDependencies": {},
