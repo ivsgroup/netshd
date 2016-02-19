@@ -15,7 +15,8 @@
   "license": "IVS",
   "dependencies": {
     "mout": "^0.11.0",
-    "nyks": "^2.0.0"
+    "nyks": "^2.0.0",
+    "uclass": "^2.0.7"
   },
   "devDependencies": {},
   "repository": {
